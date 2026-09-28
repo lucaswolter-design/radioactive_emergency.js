@@ -1,14 +1,5 @@
-//  Radioactive & Toxic Elements
-// Sandboxels Mod
-
-// ================================
-// 🛠️ REGISTRY: Define Custom Categories First!
-// ================================
-// This registers your custom categories in the game menu.
 categoryToMod["radioactive"] = "Radioactive Elements";
 categoryToMod["toxic"] = "Toxic Elements";
-
-
 // ================================
 //  RADIOACTIVE
 // ================================
