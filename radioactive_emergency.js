@@ -1,4 +1,4 @@
-// ☢️ Radioactive & Toxic Elements
+//  Radioactive & Toxic Elements
 // Sandboxels Mod
 
 // ================================
@@ -10,7 +10,7 @@ categoryToMod["toxic"] = "Toxic Elements";
 
 
 // ================================
-// ☢️ RADIOACTIVE
+//  RADIOACTIVE
 // ================================
 
 elements.radium = {
@@ -47,7 +47,7 @@ elements.plutonium = {
 
 
 // ================================
-// ☣️ TOXIC
+//  TOXIC
 // ================================
 
 elements.hexavalent_chromium = {
@@ -74,4 +74,4 @@ elements.arsenic = {
     density: 5700
 };
 
-console.log("☢️ Radioactive & Toxic Elements loaded!");
+console.log("Radioactive & Toxic Elements loaded!");
